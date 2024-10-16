@@ -1,4 +1,15 @@
 #include <iostream>
+#include <string>
+#include <cstring>
+#include <cstdlib>
+#include <cmath>
+#include <iomanip>
+#include <fstream>
+#include <sstream>
+
+
+
+
 using namespace std;
 
 #define MAX 100
